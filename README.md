@@ -1,5 +1,5 @@
 ---
-
+ 
 # 🦠 Covid-19 Tracker with React & Firebase
 
 A real-time, interactive Covid-19 tracking dashboard built with **React**, **Firebase**, and **Material-UI**.
