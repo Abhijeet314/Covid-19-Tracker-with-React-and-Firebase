@@ -1,14 +1,11 @@
----
- 
 # 🦠 Covid-19 Tracker with React & Firebase
 
-A real-time, interactive Covid-19 tracking dashboard built with **React**, **Firebase**, and **Material-UI**.
+A real-time, interactive Covid-19 tracking dashboard built with **React**, **Firebase**, and **Material-UI**.  
 Track live global and country-specific cases, recoveries, and deaths with engaging data visualizations.
 
-🚀 **Live Demo**: [covid-19-tracker-95d00.web.app](https://covid-19-tracker-95d00.web.app/)
+🚀 **Live Demo**: [covid-19-tracker-95d00.web.app](https://covid-19-tracker-95d00.web.app/)   
 📂 **Source Code**: [GitHub Repository](https://github.com/Abhijeet314/Covid-19-Tracker-with-React-and-Firebase)
 
----
 
 ## ✨ Features
 
