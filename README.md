@@ -57,23 +57,6 @@ Track live global and country-specific cases, recoveries, and deaths with engagi
 * API data is fetched from [disease.sh](https://disease.sh/) – no API key required.
 * Firebase is used for hosting; see [Firebase Docs](https://firebase.google.com/docs/hosting) for deployment steps.
 
----
-
-## 📸 Screenshots
-
-### 🌍 Global View
-
-![Global Dashboard](./e649b200-ff30-417f-ad75-3ed54ae0cf7c.png)
-
-### 🇮🇳 Country View (India Example)
-
-![Country Dashboard](./b4a1187d-b867-4aa0-a34b-87fb05c43c1c.png)
-
-### 📍 Country Map Popup Example
-
-![Country Map Popup](./46fc54b1-ddc9-41d8-8582-007f431dedd3.png)
-
----
 
 ## 🚀 Deployment
 
